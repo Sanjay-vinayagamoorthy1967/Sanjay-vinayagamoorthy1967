@@ -56,18 +56,6 @@ A collection of Java programs and Data Structures & Algorithms problems for codi
 
 ---
 
-## 📊 GitHub Stats
-
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay-vinayagamoorthy1967&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-vinayagamoorthy1967&layout=compact&theme=tokyonight)
-
----
-
 ## 📈 Coding Profiles
 
 - 💻 LeetCode: Practicing Data Structures and Algorithms
