@@ -6,7 +6,7 @@ I'm a passionate Computer Science and Engineering student interested in building
 
 - 🔭 Currently working on full-stack web development projects
 - 🌱 Currently learning Java, Data Structures & Algorithms
-- 💻 Interested in Web Development, Cybersecurity and Software Development
+- 💻 Interested in Web Development and Software Development
 - 🚀 Building practical projects to solve real-world problems
 - 📫 Reach me through my GitHub profile
 
