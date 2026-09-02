@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sanjay Vinayagamoorthy
+# Hi 👋, I'm Sanjay Vinayagamoorthy 
 
 ### Final Year Computer Science and Engineering Student | Software Developer
 
