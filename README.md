@@ -4,7 +4,7 @@
    
 I'm a passionate Computer Science and Engineering student interested in building real-world applications and solving problems using technology.   
 
-- 🔭 Currently working on full-stack web development projects 
+- 🔭 Currently working on full-stack web development projects  
 - 🌱 Currently learning Java, Data Structures & Algorithms  
 - 💻 Interested in Web Development and Software Development 
 - 🚀 Building practical projects to solve real-world problems  
