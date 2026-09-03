@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sanjay Vinayagamoorthy 
-   
+    
 ### Final Year Computer Science and Engineering Student | Software Developer
    
 I'm a passionate Computer Science and Engineering student interested in building real-world applications and solving problems using technology.  
