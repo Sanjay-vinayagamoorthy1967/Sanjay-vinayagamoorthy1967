@@ -2,7 +2,7 @@
    
 ### Final Year Computer Science and Engineering Student | Software Developer
   
-I'm a passionate Computer Science and Engineering student interested in building real-world applications and solving problems using technology. 
+I'm a passionate Computer Science and Engineering student interested in building real-world applications and solving problems using technology.  
 
 - 🔭 Currently working on full-stack web development projects
 - 🌱 Currently learning Java, Data Structures & Algorithms 
