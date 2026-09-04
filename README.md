@@ -8,7 +8,7 @@ I'm a passionate Computer Science and Engineering student interested in building
 - 🌱 Currently learning Java, Data Structures & Algorithms   
 - 💻 Interested in Web Development and Software Development  
 - 🚀 Building practical projects to solve real-world problems               
-- 📫 Reach me through my GitHub profile
+- 📫 Reach me through my GitHub profile 
 
 ---
 
