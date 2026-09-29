@@ -11,7 +11,7 @@ I'm a passionate Computer Science and Engineering student interested in building
            
 ---       
  
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills 
   
 ### Programming Languages
 - C
