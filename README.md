@@ -9,7 +9,7 @@ I'm a passionate Computer Science and Engineering student interested in building
 - 🚀 Building practical projects to solve real-world problems                                          
 - 📫 Reach me through my GitHub profile                         
            
----          
+---           
   
 ## 🛠️ Technical Skills 
   
