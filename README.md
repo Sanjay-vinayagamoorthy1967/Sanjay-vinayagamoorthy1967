@@ -10,7 +10,7 @@ I'm a passionate Computer Science and Engineering student interested in building
 - 📫 Reach me through my GitHub profile                          
            
 ---            
-  
+   
 ## 🛠️ Technical Skills 
   
 ### Programming Languages
