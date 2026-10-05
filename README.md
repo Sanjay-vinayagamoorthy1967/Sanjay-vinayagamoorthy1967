@@ -1,71 +1,95 @@
-# Hi 👋, I'm Sanjay Vinayagamoorthy 
- 
-### Final Year Computer Science and Engineering Student | Software Developer 
-         
-I'm a passionate Computer Science and Engineering student interested in building real-world applications and solving problems using technology.             
-- 🔭 Currently working on full-stack web development projects                 
-- 🌱 Currently learning Java, Data Structures & Algorithms                      
-- 💻 Interested in Web Development and Software Development                         
-- 🚀 Building practical projects to solve real-world problems                                               
-- 📫 Reach me through my GitHub profile                              
-              
----             
-     
-## 🛠️ Technical Skills 
-   
-### Programming Languages
-- C
-- Java (OOPS) 
+ ┌─ FIRST SCREEN ───────────────────────────────────────────────┐
+ │   dark #0B0F1A background · blue → purple → cyan gradients    │
+ └───────────────────────────────────────────────────────────────┘
 
-### Frontend Development
-- HTML
-- CSS
-- JavaScipt
+╔══════════════════════════════════════════════════╗
+║ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░ ║
+║                                                  ║
+║   $ whoami                                       ║
+║                                                  ║
+║   S A N J A Y   V I N A Y A G A M O O R T H Y    ║
+║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    ║
+║   SOFTWARE DEVELOPER  ·  FINAL YEAR CSE STUDENT  ║
+║                                                  ║
+║   > Building practical software_                 ║
+║                                                  ║
+║   [  GITHUB  ]   [  LEETCODE  ]                  ║
+║                                                  ║
+║ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░ ║
+╚══════════════════════════════════════════════════╝
 
-### Databases
-- Mysql
+┌──────────────┐  ┌──────────────┐  ┌──────────────┐
+│ STUDENT      │  │ DEVELOPER    │  │ LEARNING     │
+│ Final Year   │  │ Full-Stack   │  │ Java + DSA   │
+│ CSE          │  │ Web Projects │  │ & Algorithms │
+└──────────────┘  └──────────────┘  └──────────────┘
 
-### Tools
-- Git
-- GitHub
-- VS Code
+ ▲ Everything above is the first screen: who I am, what I do,
+   and what I'm learning, visible in 3 to 5 seconds.
 
----
 
-## 🚀 Featured Projects
+ ▌ FEATURED PROJECTS
 
-### 🎓 College Event Management System
-A full-stack web application for managing college events, student registrations, email OTP verification, admin management and QR-based attendance.
+┏━ 01 · FEATURED ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                  ┃
+┃  COLLEGE EVENT MANAGEMENT SYSTEM                 ┃
+┃  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                 ┃
+┃                                                  ┃
+┃  A full-stack web application for managing       ┃
+┃  college events, student registrations, email    ┃
+┃  OTP verification, admin management and          ┃
+┃  QR-based attendance.                            ┃
+┃                                                  ┃
+┃  → Event Management      → Email OTP             ┃
+┃  → Student Registration  → QR Attendance         ┃
+┃  → Admin Management                              ┃
+┃                                                  ┃
+┃  React.js · Node.js · Express.js · MongoDB       ┃
+┃                                                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-**Technologies:** React.js, Node.js, Express.js, MongoDB
+╭───────────────────────╮  ┌───────────────────────┐
+│ 02 ✦ SMARTTUBE AI     │  │ 03 JAVA DSA PRACTICE  │
+│ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈│  │ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈│
+│ AI-powered web project│  │ Java programs and DSA │
+│ built for intelligent │  │ problems for coding   │
+│ features and smoother │  │ practice and interview│
+│ user interaction      │  │ preparation           │
+│                       │  │ Arrays·Strings·Matrix │
+│ React.js · JavaScript │  │ Searching·Sorting     │
+│ AI APIs               │  │ LeetCode Problems     │
+│                       │  │ Java · DSA            │
+╰───────────────────────╯  └───────────────────────┘
+   purple → cyan glow          cyan → green accent
+   "AI" identity               "code / practice" identity
 
----
 
-### 🤖 SmartTube AI
-An AI-powered project designed to provide intelligent features and improve user interaction using modern web technologies.
+ ▌ TECH STACK
 
-**Technologies:** React.js, JavaScript, AI APIs
+┌─ TECH STACK ─────────────────────────────────────┐
+│  LANGUAGES  ▸ C · Java                           │
+│  FRONTEND   ▸ HTML · CSS · JavaScript · React.js │
+│  BACKEND    ▸ Node.js · Express.js               │
+│  DATABASE   ▸ MySQL · MongoDB                    │
+│  TOOLS      ▸ Git · GitHub · VS Code             │
+└──────────────────────────────────────────────────┘
+   (each technology shown as a small colored badge)
 
----
 
-### 💻 Java DSA Practice
-A collection of Java programs and Data Structures & Algorithms problems for coding practice and interview preparation.
+ ▌ CODING
 
-**Topics:** Arrays, Strings, Matrix, Searching, Sorting and LeetCode Problems
+┌───────────────────────┐  ┌───────────────────────┐
+│ GITHUB                │  │ LEETCODE              │
+│ live stats card       │  │ live stats card       │
+│ auto-updating         │  │ auto-updating         │
+└───────────────────────┘  └───────────────────────┘
+   (small cards, smaller than the projects section)
 
----                         
- 
-## 📈 Coding Profiles
 
-- 💻 LeetCode: Practicing Data Structures and Algorithms
-- 🐙 GitHub: Building and sharing software projects
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [Sanjay-vinayagamoorthy1967](https://github.com/Sanjay-vinayagamoorthy1967)
-
----
-
-⭐ Thanks for visiting my profile!
+╔══════════════════════════════════════════════════╗
+║  ◆ GitHub    Sanjay-vinayagamoorthy1967          ║
+║  ◆ LeetCode  Sanjay196703                        ║
+║                                                  ║
+║  $ echo "Thanks for visiting"                    ║
+║ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░ ║
+╚══════════════════════════════════════════════════╝
