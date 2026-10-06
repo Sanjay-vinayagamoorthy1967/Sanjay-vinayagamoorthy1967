@@ -1,298 +1,227 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,45:7C3AED,75:06B6D4,100:22C55E&height=220&section=header&text=Sanjay%20Vinayagamoorthy&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Final%20Year%20CSE%20Student&descAlignY=58&descSize=18"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Practical+Software+%F0%9F%9A%80;Full-Stack+Web+Development+%F0%9F%92%BB;Learning+Java+%26+DSA+%E2%98%95;Turning+Ideas+Into+Projects+%E2%9C%A8"/>
-
-<br><br>
- 
-<a href="https://github.com/Sanjay-vinayagamoorthy1967">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/Sanjay196703/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0B0F1A,50:1E3A8A,100:7C3AED&height=230&section=header&text=SANJAY%20VINAYAGAMOORTHY&fontSize=40&fontColor=FFFFFF&fontAlignY=42&desc=%24%20whoami&descSize=20&descAlignY=64" alt="Sanjay Vinayagamoorthy" />
 
 </div>
 
-<br>
+```console
+sanjay@dev:~$ whoami
+Sanjay Vinayagamoorthy
 
----
+sanjay@dev:~$ cat role.txt
+Software Developer
+Final Year Computer Science and Engineering Student
+```
 
 <div align="center">
 
-## ✦ WHO AM I?
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=36&lines=%3E+Building+practical+software;%3E+Full-stack+development;%3E+Java+%2B+DSA;%3E+Learning+and+improving" alt="Building practical software, full-stack development, Java and DSA, learning and improving" />
+
+</div>
+
+---
+
+<h2 align="center"><code>~/dashboard</code></h2>
+
+<div align="center">
+
+| 🎓 STUDENT | 💻 DEVELOPER | 🧠 LEARNING |
+|:---:|:---:|:---:|
+| **Final Year**<br>Computer Science & Engineering | **Full-Stack**<br>Web development projects | **Java + DSA**<br>Data Structures & Algorithms |
+
+</div>
+
+---
+
+<h2 align="center"><code>~/stack</code></h2>
+
+<div align="center">
 
 <table>
-<tr>
-<td align="center" width="25%">
+  <tr><th>🧬 FOUNDATION · LANGUAGES</th></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    </td>
+  </tr>
+</table>
 
-🎓  
-### STUDENT
+<code>│</code><br><code>▼</code>
 
-Final Year  
-Computer Science & Engineering
+<table>
+  <tr><th>🌐 CLIENT · FRONTEND</th></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+    </td>
+  </tr>
+</table>
 
-</td>
+<code>│</code><br><code>▼</code>
 
-<td align="center" width="25%">
+<table>
+  <tr><th>⚙️ SERVER · BACKEND</th></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    </td>
+  </tr>
+</table>
 
-💻  
-### DEVELOPER
+<code>│</code><br><code>▼</code>
 
-Full-Stack  
-Web Development
+<table>
+  <tr><th>🗄️ DATA · DATABASE</th></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+  </tr>
+</table>
 
-</td>
+<code>┊</code>
 
-<td align="center" width="25%">
-
-☕  
-### LEARNING
-
-Java  
-Data Structures & Algorithms
-
-</td>
-
-<td align="center" width="25%">
-
-🚀  
-### BUILDING
-
-Practical  
-Software Projects
-
-</td>
-</tr>
+<table>
+  <tr><th>🛠️ WORKFLOW · TOOLS</th></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+    </td>
+  </tr>
 </table>
 
 </div>
 
-<br>
-
-## 🌈 About Me
-
-> **I'm a Computer Science and Engineering student passionate about building real-world applications and solving problems using technology.**
-
-<div align="center">
-
-`FULL-STACK DEVELOPMENT`    `JAVA`    `DSA`    `SOFTWARE DEVELOPMENT`
-
-</div>
-
-<br>
-
 ---
 
-# 🚀 Featured Projects
+<h2 align="center"><code>~/projects</code></h2>
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=0:2563EB,100:7C3AED&height=190&text=COLLEGE%20EVENT%20MANAGEMENT%20SYSTEM&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=PROJECT%2001%20%C2%B7%20FEATURED&descSize=18&descAlignY=62" alt="Project 01 - College Event Management System" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=70&section=header&text=%F0%9F%8C%9F%20PROJECT%20SHOWCASE&fontSize=28&fontColor=FFFFFF"/>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="100%">
-
-### 🎓 College Event Management System
-
-<img src="https://img.shields.io/badge/FULL--STACK_PROJECT-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WEB_APPLICATION-06B6D4?style=for-the-badge"/>
-
-A full-stack web application for managing **college events, student registrations, email OTP verification, admin management and QR-based attendance.**
-
-<br>
-
-**✨ Key Features**
-
-`🎯 Event Management`   `👨‍🎓 Student Registration`   `📧 Email OTP`
-
-`👨‍💼 Admin Management`   `📱 QR Attendance`
-
-<br>
-
-**🛠️ Technologies**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td colspan="2">
+      🎓 A full-stack web application for managing college events, student registrations, email OTP verification, admin management and QR-based attendance.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>FEATURES</b><br><br>
+      → Event Management<br>
+      → Student Registration<br>
+      → Email OTP<br>
+      → QR Attendance<br>
+      → Admin Management
+    </td>
+    <td width="50%" valign="top">
+      <b>TECHNOLOGY</b><br><br>
+      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+  </tr>
 </table>
 
 <br>
 
-<table>
-<tr>
-
-<td width="50%">
-
-### 🤖 SmartTube AI
-
-<img src="https://img.shields.io/badge/AI_PROJECT-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WEB_APP-06B6D4?style=for-the-badge"/>
-
-AI-powered project designed to provide intelligent features and improve user interaction using modern web technologies.
-
-<br>
-
-**Tech**
-
-<img src="https://skillicons.dev/icons?i=react,js" />
-
-`AI APIs`
-
-</td>
-
-<td width="50%">
-
-### 💻 Java DSA Practice
-
-<img src="https://img.shields.io/badge/JAVA-16A34A?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-22C55E?style=for-the-badge"/>
-
-Java programs and Data Structures & Algorithms problems for coding practice and interview preparation.
-
-<br>
-
-**Topics**
-
-`Arrays` `Strings` `Matrix`
-
-`Searching` `Sorting` `LeetCode`
-
-</td>
-
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=90&text=02%20%C2%B7%20SMARTTUBE%20AI&fontSize=48&fontColor=FFFFFF&fontAlignY=50" alt="Project 02 - SmartTube AI" />
+      <p>🤖 An AI-powered web project designed to provide intelligent features and improve user interaction using modern web technologies.</p>
+<pre>{
+  "project": "SmartTube AI",
+  "stack": ["React.js", "JavaScript",
+            "AI APIs"],
+  "goal": "smarter interaction"
+}</pre>
+      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/AI_APIs-7C3AED?style=flat-square" alt="AI APIs" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:3FB950&height=90&text=03%20%C2%B7%20JAVA%20DSA%20PRACTICE&fontSize=44&fontColor=0B0F1A&fontAlignY=50" alt="Project 03 - Java DSA Practice" />
+      <p>💻 A collection of Java programs and Data Structures & Algorithms problems for coding practice and interview preparation.</p>
+<pre>String[] topics = {
+  "Arrays", "Strings", "Matrix",
+  "Searching", "Sorting",
+  "LeetCode Problems"
+};</pre>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/DSA-2563EB?style=flat-square" alt="DSA" />
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </td>
+  </tr>
 </table>
 
-<br>
+---
+
+<h2 align="center"><code>~/loop</code><br>Build → Learn → Solve → Repeat</h2>
+
+<table width="100%">
+  <tr>
+    <th width="25%">🔨 BUILD</th>
+    <th width="25%">📘 LEARN</th>
+    <th width="25%">🧩 SOLVE</th>
+    <th width="25%">🔁 REPEAT</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">Full-stack projects that solve real problems</td>
+    <td align="center" valign="top">Java, Data Structures & Algorithms</td>
+    <td align="center" valign="top">DSA practice and LeetCode problems</td>
+    <td align="center" valign="top">Learning something new every day</td>
+  </tr>
+</table>
 
 ---
 
-# 🧩 Tech Universe
+<h2 align="center"><code>~/activity</code></h2>
 
-<div align="center">
-
-### 🔵 PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=c,java" />
-
-<br><br>
-
-### 🟣 FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
-<br><br>
-
-### 🩵 BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<br><br>
-
-### 🟢 DATABASE
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-<br><br>
-
-### ⚙️ TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
-<br>
+<table width="100%">
+  <tr>
+    <th width="50%">🐙 GITHUB</th>
+    <th width="50%">💻 LEETCODE</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/Sanjay-vinayagamoorthy1967"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Sanjay-vinayagamoorthy1967&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=38BDF8&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub Stats" /></a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://leetcode.com/u/Sanjay196703/"><img width="100%" src="https://leetcard.jacoblin.cool/Sanjay196703?theme=dark" alt="LeetCode profile Sanjay196703" /></a>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2">📈 CONTRIBUTION ACTIVITY</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-vinayagamoorthy1967&bg_color=0B0F1A&color=38BDF8&line=7C3AED&point=3FB950&area=true&area_color=7C3AED&hide_border=true&height=300" alt="GitHub contribution activity graph" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📊 Coding & Development
+<h2 align="center"><code>~/connect</code></h2>
 
 <div align="center">
 
-<a href="https://github.com/Sanjay-vinayagamoorthy1967">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjay-vinayagamoorthy1967&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=22D3EE&icon_color=8B5CF6&text_color=FFFFFF&ring_color=3B82F6"/>
-
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Sanjay-vinayagamoorthy1967">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-vinayagamoorthy1967&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=22D3EE&text_color=FFFFFF"/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Sanjay196703/">
-
-<img src="https://leetcard.jacoblin.cool/Sanjay196703?theme=dark&font=Baloo&ext=heatmap" width="500"/>
-
-</a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-# 🧠 Currently Learning
-
-<br>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Structures-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full--Stack-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software_Development-16A34A?style=for-the-badge"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-# 🌐 Let's Connect
-
-<br>
-
-<a href="https://github.com/Sanjay-vinayagamoorthy1967">
-<img src="https://img.shields.io/badge/GitHub-Sanjay--vinayagamoorthy1967-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://leetcode.com/u/Sanjay196703/">
-<img src="https://img.shields.io/badge/LeetCode-Sanjay196703-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<a href="https://github.com/Sanjay-vinayagamoorthy1967"><img src="https://img.shields.io/badge/GITHUB-Sanjay--vinayagamoorthy1967-0B0F1A?style=for-the-badge&logo=github&logoColor=white&labelColor=2563EB" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/Sanjay196703/"><img src="https://img.shields.io/badge/LEETCODE-Sanjay196703-0B0F1A?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=7C3AED" alt="LeetCode" /></a>
 
 <br><br>
 
-### ✨ Build • Learn • Solve • Improve ✨
-
-<sub>Thanks for visiting my profile!</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,40:7C3AED,70:06B6D4,100:22C55E&height=140&section=footer"/>
+<code>$ echo "Thanks for visiting"</code>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0B0F1A,50:1E3A8A,100:7C3AED&height=100&section=footer" alt="" />
