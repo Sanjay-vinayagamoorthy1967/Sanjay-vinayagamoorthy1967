@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Practical+Software+%F0%9F%9A%80;Full-Stack+Web+Development+%F0%9F%92%BB;Learning+Java+%26+DSA+%E2%98%95;Turning+Ideas+Into+Projects+%E2%9C%A8"/>
 
 <br><br>
-
+ 
 <a href="https://github.com/Sanjay-vinayagamoorthy1967">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
