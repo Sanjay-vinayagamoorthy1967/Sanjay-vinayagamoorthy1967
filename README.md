@@ -69,3 +69,5 @@ A collection of Java programs and Data Structures & Algorithms problems for codi
 \---\
 \
 ⭐ Thanks for visiting my profile!\
+
+ethu romba simple ahh eruku ennaku colour ful ahhh oru mari attractive va romba super ahh kudu claude ku prompt kudu
