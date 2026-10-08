@@ -7,7 +7,7 @@
  
 ### Final Year CSE Student &nbsp;|&nbsp; Software Developer   
   
-*Building practical software solutions and learning something new every day.*
+*Building practical software solutions and learning something new every day.* 
 
 <br>
  
