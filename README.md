@@ -4,7 +4,7 @@
 <div align="center">
    
 # Hi 👋, I'm Sanjay Vinayagamoorthy  
-
+ 
 ### Final Year CSE Student &nbsp;|&nbsp; Software Developer   
  
 *Building practical software solutions and learning something new every day.*
