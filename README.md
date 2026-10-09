@@ -9,7 +9,7 @@
   
 *Building practical software solutions and learning something new every day.* 
 
-<br>
+<br> 
  
 <a href="https://github.com/Sanjay-vinayagamoorthy1967"><img src="https://img.shields.io/badge/GitHub-Sanjay--vinayagamoorthy1967-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://leetcode.com/u/Sanjay196703/"><img src="https://img.shields.io/badge/LeetCode-Sanjay196703-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
