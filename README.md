@@ -3,7 +3,7 @@
 
 <div align="center"> 
     
-# Hi 👋, I'm Sanjay Vinayagamoorthy    
+# Hi 👋, I'm Sanjay Vinayagamoorthy     
   
 ### Final Year CSE Student &nbsp;|&nbsp; Software Developer    
   
