@@ -8,7 +8,7 @@
 ### Final Year CSE Student &nbsp;|&nbsp; Software Developer        
      
 *Building practical software solutions and learning something new every day.*  
-
+ 
 <br> 
  
 <a href="https://github.com/Sanjay-vinayagamoorthy1967"><img src="https://img.shields.io/badge/GitHub-Sanjay--vinayagamoorthy1967-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
