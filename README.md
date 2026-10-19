@@ -27,7 +27,7 @@
 - 🛠️ Building practical projects to solve real-world problems 
   
 ---  
- 
+  
 <h2 align="center">🧰 Tech Stack</h2>b
 
 <div align="center">
