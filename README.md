@@ -23,7 +23,7 @@
 - 🎓 Final-year Computer Science and Engineering student
 - 💡 Interested in web development and software development
 - 🌐 Currently working on full-stack web development projects
-- ☕ Learning Java and Data Structures & Algorithms
+- ☕ Learning Java and Data Structures & Algorithms 
 - 🛠️ Building practical projects to solve real-world problems 
   
 ---   
