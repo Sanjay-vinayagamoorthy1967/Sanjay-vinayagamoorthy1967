@@ -18,7 +18,7 @@
  
 --- 
    
-<h2 align="center">👨‍💻 About Me</h2> 
+<h2 align="center">👨‍💻 About Me</h2>  
 
 - 🎓 Final-year Computer Science and Engineering student    
 - 💡 Interested in web development and software development  
